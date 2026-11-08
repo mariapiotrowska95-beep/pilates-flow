@@ -8,6 +8,8 @@ Cel produktu: ułatwić dobieranie i sekwencjonowanie ćwiczeń dla konkretnych 
 
 Użytkowniczka zleciła stworzenie pełnego repozytorium, w tym GitHub. Docelowy hosting to Vercel, wdrożenie i domena na końcu. Bez kupowania usług i domen na podstawie samego ogólnego dostępu.
 
+**Doprecyzowanie 8 listopada 2026:** ten projekt jest całkowicie nowy i niezależny. Repozytorium `mariapiotrowska95-beep/pilates-flow` ma własną historię i własny kod. Nie używać kodu, danych ani historii wcześniejszego `pilates-planner` jako podstawy tego projektu.
+
 ## Ustalenia z notatki
 
 - Sprzęt: mata, reformer, wieża; dodatkowo słowo „wiosło”, którego znaczenie jest niepewne. Zachować osobną kategorię `rower`, nie utożsamiać automatycznie z wieżą ani wiosłowaniem przy wieży.
