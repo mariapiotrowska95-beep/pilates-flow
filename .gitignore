@@ -1,0 +1,13 @@
+node_modules/
+dist/
+coverage/
+.DS_Store
+.env*
+!.env.example
+.vercel/
+test-results/
+playwright-report/
+*.local
+*.tsbuildinfo
+artifacts/
+backups/
