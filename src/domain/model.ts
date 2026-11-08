@@ -29,6 +29,8 @@ export const props = [
   "Wałek",
   "Hantle",
   "Taśma",
+  "Jumpboard",
+  "Skrzynia",
 ] as const;
 export const levels = ["Podstawowy", "Średni", "Zaawansowany"] as const;
 export const apparatusSchema = z.enum(["mat", "reformer", "tower", "rower"]);
@@ -73,6 +75,14 @@ export const exerciseSchema = z.object({
         /^data:image\/(png|jpeg|webp);base64,[A-Za-z0-9+/=]+$/.test(s),
       "Niedozwolony format obrazu",
     ),
+  video: z
+    .object({
+      id: z.string().regex(/^[A-Za-z0-9_-]{11}$/),
+      start: z.number().int().min(0),
+      title: z.string(),
+      channel: z.string(),
+    })
+    .optional(),
   custom: z.boolean(),
 });
 export type Exercise = z.infer<typeof exerciseSchema>;

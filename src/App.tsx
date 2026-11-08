@@ -413,11 +413,18 @@ export default function App() {
                 )
               }
               onPlan={(g) => newPlan(undefined, g)}
-              onHistory={(group) => { setHistoryGroup(group.id); go("history"); }}
+              onHistory={(group) => {
+                setHistoryGroup(group.id);
+                go("history");
+              }}
             />
           )}
           {view === "history" && (
-            <History state={state} initialGroup={historyGroup} onOpen={(s) => setSessionId(s.id)} />
+            <History
+              state={state}
+              initialGroup={historyGroup}
+              onOpen={(s) => setSessionId(s.id)}
+            />
           )}
           {view === "settings" && (
             <Settings
@@ -547,6 +554,14 @@ export default function App() {
       )}
       {session && (
         <SessionDetail
+          onExercise={(exercise) =>
+            setSelected({
+              ...exercise,
+              video:
+                exercise.video ??
+                allExercises.find((e) => e.id === exercise.id)?.video,
+            })
+          }
           session={session}
           onClose={() => setSessionId(null)}
           onEdit={replaceDraft}

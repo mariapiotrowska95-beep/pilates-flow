@@ -13,7 +13,8 @@ import {
   type Exercise,
   type AppState,
 } from "../domain/model";
-import { Modal, MovementArt, Tags } from "./ui";
+import { Modal, Tags } from "./ui";
+import { ExercisePhoto, ExerciseVideo } from "./ExerciseMedia";
 
 export function ExerciseDetail({
   exercise,
@@ -49,15 +50,8 @@ export function ExerciseDetail({
       onClose={onClose}
       wide
     >
-      {exercise.image ? (
-        <img
-          className="detail-image"
-          src={exercise.image}
-          alt={exercise.name}
-        />
-      ) : (
-        <MovementArt kind={exercise.apparatus} large />
-      )}
+      <ExercisePhoto exercise={exercise} />
+      <ExerciseVideo key={exercise.id} exercise={exercise} />
       <div className="detail-body">
         <Tags exercise={exercise} />
         <p className="detail-lead">{exercise.description}</p>

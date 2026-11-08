@@ -1,4 +1,5 @@
 import type { Exercise, PlanTemplate } from "../domain/model";
+import reformerVideos from "./reformer-videos.json";
 import { uid } from "../domain/model";
 
 type Seed = Pick<
@@ -518,6 +519,25 @@ export const exercises: Exercise[] = [
     harder: "Dłuższa faza powrotu.",
   }),
 ];
+
+exercises.push(...(reformerVideos as Exercise[]));
+const existingVideoChapters: Record<string, number> = {
+  "reformer-footwork": 101,
+  "reformer-running": 167,
+  "reformer-frog": 919,
+  "reformer-circles": 846,
+  "reformer-arms": 380,
+};
+for (const exercise of exercises) {
+  const start = existingVideoChapters[exercise.id];
+  if (start !== undefined)
+    exercise.video = {
+      id: "S8N9p-GH1Wg",
+      start,
+      title: "Pilates Reformer Cardio Workout",
+      channel: "Official Align-Pilates HQ",
+    };
+}
 
 function template(id: string, name: string, ids: string[]): PlanTemplate {
   return {

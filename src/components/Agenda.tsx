@@ -124,36 +124,6 @@ export function Overview({
         </div>
         <div className="hero-art" aria-hidden="true">
           <div className="hero-ring" />
-          <svg viewBox="0 0 400 300" fill="none">
-            <path d="M60 252H349" stroke="#819184" strokeWidth="2" />
-            <circle cx="155" cy="107" r="21" fill="#bf826a" />
-            <path
-              d="M176 140L213 201L276 244M212 201L145 247"
-              stroke="#5a6e58"
-              strokeWidth="27"
-              strokeLinecap="round"
-              strokeLinejoin="round"
-            />
-            <path
-              d="M179 150L121 159L81 117M182 153L237 118L254 64"
-              stroke="#bf826a"
-              strokeWidth="17"
-              strokeLinecap="round"
-              strokeLinejoin="round"
-            />
-            <path
-              d="M252 65L262 41"
-              stroke="#bf826a"
-              strokeWidth="12"
-              strokeLinecap="round"
-            />
-            <path
-              d="M135 247H111M277 245H301"
-              stroke="#bf826a"
-              strokeWidth="14"
-              strokeLinecap="round"
-            />
-          </svg>
           <span className="hero-caption">ZACZNIJ OD ODDECHU</span>
           <span className="hero-sparkle">✳</span>
         </div>
@@ -439,6 +409,7 @@ export function SessionDetail({
   onCopy,
   onStatus,
   onDelete,
+  onExercise,
 }: {
   session: Session;
   onClose: () => void;
@@ -446,6 +417,7 @@ export function SessionDetail({
   onCopy: (draft: Draft) => void;
   onStatus: (status: Session["status"]) => void;
   onDelete: (future: boolean) => void;
+  onExercise: (exercise: Session["lines"][number]["exercise"]) => void;
 }) {
   const [confirmDelete, setConfirmDelete] = useState(false);
   const [showSteps, setShowSteps] = useState(false);
@@ -504,7 +476,13 @@ export function SessionDetail({
                 <span className={`tag ${line.phase}`}>
                   {phaseLabels[line.phase]}
                 </span>
-                <h3>{line.exercise.name}</h3>
+                <button
+                  className="saved-exercise-link"
+                  onClick={() => onExercise(line.exercise)}
+                >
+                  <h3>{line.exercise.name}</h3>
+                  <span>Instrukcja i film ↗</span>
+                </button>
                 {line.note && <p className="line-note-text">{line.note}</p>}
                 {showSteps && (
                   <div className="teaching-steps">

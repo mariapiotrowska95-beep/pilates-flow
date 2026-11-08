@@ -15,7 +15,8 @@ import {
   type Exercise,
   type AppState,
 } from "../domain/model";
-import { Empty, MovementArt } from "./ui";
+import { Empty } from "./ui";
+import { ExercisePhoto } from "./ExerciseMedia";
 
 export default function Library({
   exercises,
@@ -191,7 +192,7 @@ export default function Library({
         />
       ) : (
         <div className="exercise-grid">
-          {filtered.map((exercise, i) => {
+          {filtered.map((exercise) => {
             const selected = state.draft.lines.some(
               (l) => l.exercise.id === exercise.id,
             );
@@ -203,15 +204,7 @@ export default function Library({
                     onClick={() => onDetail(exercise)}
                     aria-label={`Szczegóły: ${exercise.name}`}
                   >
-                    {exercise.image ? (
-                      <img
-                        className="exercise-image"
-                        src={exercise.image}
-                        alt={exercise.name}
-                      />
-                    ) : (
-                      <MovementArt kind={exercise.apparatus} variant={i} />
-                    )}
+                    <ExercisePhoto exercise={exercise} />
                   </button>
                   <span className={`apparatus-pill ${exercise.apparatus}`}>
                     {apparatusLabels[exercise.apparatus]}
@@ -271,8 +264,9 @@ export default function Library({
         </div>
       )}
       <p className="library-note">
-        Ilustracje są dekoracyjne. Opisy startowe i szablony sprawdź przed
-        użyciem z grupą; nie stanowią indywidualnego programu rehabilitacji.
+        Zdjęcia przy filmach to miniatury YouTube. Opisy startowe i szablony
+        sprawdź przed użyciem z grupą; nie stanowią indywidualnego programu
+        rehabilitacji.
       </p>
     </>
   );

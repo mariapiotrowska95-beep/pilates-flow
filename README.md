@@ -25,7 +25,7 @@ Jeżeli komputer nie ma Node.js, agent może użyć środowiska dostarczonego pr
 
 ## Co działa
 
-- 26 ćwiczeń startowych: mata, reformer i wieża. Osobna kategoria wiosła gotowa na własne opisy.
+- 56 ćwiczeń startowych (36 na reformer): mata, reformer i wieża. Osobna kategoria wiosła gotowa na własne opisy.
 - Wyszukiwanie, ulubione i filtry: sprzęt, cele ruchowe, poziom, przybory.
 - Pełne opisy, etapy, wskazówki i warianty; tworzenie i edycja własnych ćwiczeń ze zdjęciem do 2 MB.
 - Lokalne sugerowanie kategorii na podstawie nazwy i opisu; ręczna korekta.
@@ -47,7 +47,7 @@ Nie ma kont, backendu ani zewnętrznej bazy. Dane użytkowniczki nie są wysyła
 
 **Zapis w przeglądarce nie jest gwarancją przechowania przez rok lub pięć lat.** Regularnie pobieraj kopię. Wyczyszczenie danych witryny, zmiana domeny/profilu przeglądarki albo utrata urządzenia wymagają odtworzenia z kopii. Przycisk trwałej pamięci prosi przeglądarkę o ograniczenie automatycznego usuwania danych.
 
-Opisy startowe są materiałem redakcyjnym do oceny instruktorki. Aplikacja nie diagnozuje, nie kwalifikuje do ćwiczeń i nie generuje programów rehabilitacji. Dekoracyjne ilustracje nie pokazują techniki ruchu. Nie przypisujemy ćwiczeń do konkretnego schorzenia na podstawie samych tagów.
+Opisy startowe są materiałem redakcyjnym do oceny instruktorki. Aplikacja nie diagnozuje, nie kwalifikuje do ćwiczeń i nie generuje programów rehabilitacji. Filmy YouTube otwierają się w szczegółach ćwiczeń i wymagają internetu; zdjęcia filmów są miniaturami YouTube. Nie przypisujemy ćwiczeń do konkretnego schorzenia na podstawie samych tagów.
 
 ## Struktura
 
@@ -72,3 +72,5 @@ Gotowa konfiguracja znajduje się w `vercel.json`. Nie wymaga zmiennych środowi
 ## Dalszy rozwój
 
 Najpierw zweryfikować katalog z instruktorką, uzupełniać własne ćwiczenia i sprawdzić używanie podczas realnych zajęć. Następnie: zarządzanie usuwaniem szablonów, usprawnienie dużych bibliotek zdjęć, ewentualna synchronizacja oraz opakowanie mobilne Capacitor. Docelowy model danych i osobny adapter pamięci ułatwiają te zmiany bez przebudowy całego interfejsu.
+
+Materiały reformer i źródła: [REFORMER-YOUTUBE.md](docs/REFORMER-YOUTUBE.md).

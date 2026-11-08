@@ -1,0 +1,902 @@
+[
+  {
+    "id": "reformer-video-01",
+    "name": "Footwork — równoległe stopy",
+    "englishName": "Parallel footwork",
+    "apparatus": "reformer",
+    "focus": ["Nogi", "Biodra"],
+    "props": ["Bez przyborów"],
+    "phase": "warmup",
+    "level": "Podstawowy",
+    "minutes": 3,
+    "description": "Oprzyj stopy równolegle na belce. Wyprostuj nogi bez blokowania kolan i powoli przyciągnij wózek.",
+    "steps": [
+      "Sprawdź blokady urządzenia, długość pasków i dobierz opór sprężyn do osoby oraz modelu reformera.",
+      "Oprzyj stopy równolegle na belce. Wyprostuj nogi bez blokowania kolan i powoli przyciągnij wózek.",
+      "Wykonaj kilka spokojnych powtórzeń z płynnym oddechem; zakończ z kontrolą wózka."
+    ],
+    "cues": "Dobierz zakres do kontroli ruchu. Nie uderzaj wózkiem w ograniczniki. Film pokazuje wariant autora; opór dobierz indywidualnie.",
+    "caution": "Przerwij ruch wywołujący ból. Skoki wymagają jumpboardu i wcześniejszego przygotowania. Skrzynia musi być stabilnie ustawiona; zmiany pasków wykonuj pod kontrolą instruktorki.",
+    "easier": "Zmniejsz zakres i tempo, zwiększ podparcie. W skokach zacznij od wyprostów nóg bez fazy lotu.",
+    "harder": "Wydłuż kontrolowany powrót lub dodaj krótką pauzę, zanim zwiększysz zakres czy opór.",
+    "preparesFor": [],
+    "image": "",
+    "custom": false,
+    "video": {
+      "id": "S8N9p-GH1Wg",
+      "start": 101,
+      "title": "Pilates Reformer Cardio Workout",
+      "channel": "Official Align-Pilates HQ"
+    }
+  },
+  {
+    "id": "reformer-video-02",
+    "name": "Footwork — pozycja V",
+    "englishName": "Pilates V",
+    "apparatus": "reformer",
+    "focus": ["Nogi", "Biodra"],
+    "props": ["Bez przyborów"],
+    "phase": "warmup",
+    "level": "Podstawowy",
+    "minutes": 3,
+    "description": "Złącz pięty, ustaw niewielką rotację z bioder. Prowadź kolana zgodnie z kierunkiem palców podczas wyprostu i powrotu.",
+    "steps": [
+      "Sprawdź blokady urządzenia, długość pasków i dobierz opór sprężyn do osoby oraz modelu reformera.",
+      "Złącz pięty, ustaw niewielką rotację z bioder. Prowadź kolana zgodnie z kierunkiem palców podczas wyprostu i powrotu.",
+      "Wykonaj kilka spokojnych powtórzeń z płynnym oddechem; zakończ z kontrolą wózka."
+    ],
+    "cues": "Dobierz zakres do kontroli ruchu. Nie uderzaj wózkiem w ograniczniki. Film pokazuje wariant autora; opór dobierz indywidualnie.",
+    "caution": "Przerwij ruch wywołujący ból. Skoki wymagają jumpboardu i wcześniejszego przygotowania. Skrzynia musi być stabilnie ustawiona; zmiany pasków wykonuj pod kontrolą instruktorki.",
+    "easier": "Zmniejsz zakres i tempo, zwiększ podparcie. W skokach zacznij od wyprostów nóg bez fazy lotu.",
+    "harder": "Wydłuż kontrolowany powrót lub dodaj krótką pauzę, zanim zwiększysz zakres czy opór.",
+    "preparesFor": [],
+    "image": "",
+    "custom": false,
+    "video": {
+      "id": "S8N9p-GH1Wg",
+      "start": 134,
+      "title": "Pilates Reformer Cardio Workout",
+      "channel": "Official Align-Pilates HQ"
+    }
+  },
+  {
+    "id": "reformer-video-03",
+    "name": "Przenoszenie ciężaru przez stopy",
+    "englishName": "Prances",
+    "apparatus": "reformer",
+    "focus": ["Nogi", "Mobilność"],
+    "props": ["Bez przyborów"],
+    "phase": "warmup",
+    "level": "Podstawowy",
+    "minutes": 3,
+    "description": "Oprzyj przodostopie na belce. Naprzemiennie ugnij kolano i obniż przeciwną piętę bez kołysania miednicy.",
+    "steps": [
+      "Sprawdź blokady urządzenia, długość pasków i dobierz opór sprężyn do osoby oraz modelu reformera.",
+      "Oprzyj przodostopie na belce. Naprzemiennie ugnij kolano i obniż przeciwną piętę bez kołysania miednicy.",
+      "Wykonaj kilka spokojnych powtórzeń z płynnym oddechem; zakończ z kontrolą wózka."
+    ],
+    "cues": "Dobierz zakres do kontroli ruchu. Nie uderzaj wózkiem w ograniczniki. Film pokazuje wariant autora; opór dobierz indywidualnie.",
+    "caution": "Przerwij ruch wywołujący ból. Skoki wymagają jumpboardu i wcześniejszego przygotowania. Skrzynia musi być stabilnie ustawiona; zmiany pasków wykonuj pod kontrolą instruktorki.",
+    "easier": "Zmniejsz zakres i tempo, zwiększ podparcie. W skokach zacznij od wyprostów nóg bez fazy lotu.",
+    "harder": "Wydłuż kontrolowany powrót lub dodaj krótką pauzę, zanim zwiększysz zakres czy opór.",
+    "preparesFor": [],
+    "image": "",
+    "custom": false,
+    "video": {
+      "id": "S8N9p-GH1Wg",
+      "start": 167,
+      "title": "Pilates Reformer Cardio Workout",
+      "channel": "Official Align-Pilates HQ"
+    }
+  },
+  {
+    "id": "reformer-video-04",
+    "name": "Skoki na jumpboardzie — kombinacja",
+    "englishName": "Jumpboard combination",
+    "apparatus": "reformer",
+    "focus": ["Nogi", "Centrum"],
+    "props": ["Jumpboard"],
+    "phase": "main",
+    "level": "Zaawansowany",
+    "minutes": 3,
+    "description": "Po sprawdzeniu blokady jumpboardu odbij się obunóż. Ląduj miękko, stopniowo uginając biodra i kolana.",
+    "steps": [
+      "Sprawdź blokady urządzenia, długość pasków i dobierz opór sprężyn do osoby oraz modelu reformera.",
+      "Po sprawdzeniu blokady jumpboardu odbij się obunóż. Ląduj miękko, stopniowo uginając biodra i kolana.",
+      "Wykonaj kilka spokojnych powtórzeń z płynnym oddechem; zakończ z kontrolą wózka."
+    ],
+    "cues": "Dobierz zakres do kontroli ruchu. Nie uderzaj wózkiem w ograniczniki. Film pokazuje wariant autora; opór dobierz indywidualnie.",
+    "caution": "Przerwij ruch wywołujący ból. Skoki wymagają jumpboardu i wcześniejszego przygotowania. Skrzynia musi być stabilnie ustawiona; zmiany pasków wykonuj pod kontrolą instruktorki.",
+    "easier": "Zmniejsz zakres i tempo, zwiększ podparcie. W skokach zacznij od wyprostów nóg bez fazy lotu.",
+    "harder": "Wydłuż kontrolowany powrót lub dodaj krótką pauzę, zanim zwiększysz zakres czy opór.",
+    "preparesFor": [],
+    "image": "",
+    "custom": false,
+    "video": {
+      "id": "S8N9p-GH1Wg",
+      "start": 313,
+      "title": "Pilates Reformer Cardio Workout",
+      "channel": "Official Align-Pilates HQ"
+    }
+  },
+  {
+    "id": "reformer-video-05",
+    "name": "Przygotowanie brzucha z paskami",
+    "englishName": "Abdominal preparation",
+    "apparatus": "reformer",
+    "focus": ["Centrum", "Barki"],
+    "props": ["Bez przyborów"],
+    "phase": "main",
+    "level": "Średni",
+    "minutes": 3,
+    "description": "Połóż się na wózku, uchwyty w dłoniach. Wykonaj kontrolowany ruch ramion, utrzymując spokojną miednicę i swobodną szyję.",
+    "steps": [
+      "Sprawdź blokady urządzenia, długość pasków i dobierz opór sprężyn do osoby oraz modelu reformera.",
+      "Połóż się na wózku, uchwyty w dłoniach. Wykonaj kontrolowany ruch ramion, utrzymując spokojną miednicę i swobodną szyję.",
+      "Wykonaj kilka spokojnych powtórzeń z płynnym oddechem; zakończ z kontrolą wózka."
+    ],
+    "cues": "Dobierz zakres do kontroli ruchu. Nie uderzaj wózkiem w ograniczniki. Film pokazuje wariant autora; opór dobierz indywidualnie.",
+    "caution": "Przerwij ruch wywołujący ból. Skoki wymagają jumpboardu i wcześniejszego przygotowania. Skrzynia musi być stabilnie ustawiona; zmiany pasków wykonuj pod kontrolą instruktorki.",
+    "easier": "Zmniejsz zakres i tempo, zwiększ podparcie. W skokach zacznij od wyprostów nóg bez fazy lotu.",
+    "harder": "Wydłuż kontrolowany powrót lub dodaj krótką pauzę, zanim zwiększysz zakres czy opór.",
+    "preparesFor": [],
+    "image": "",
+    "custom": false,
+    "video": {
+      "id": "S8N9p-GH1Wg",
+      "start": 380,
+      "title": "Pilates Reformer Cardio Workout",
+      "channel": "Official Align-Pilates HQ"
+    }
+  },
+  {
+    "id": "reformer-video-06",
+    "name": "Opuszczanie obu nóg",
+    "englishName": "Double leg lowers",
+    "apparatus": "reformer",
+    "focus": ["Centrum", "Biodra"],
+    "props": ["Bez przyborów"],
+    "phase": "main",
+    "level": "Średni",
+    "minutes": 3,
+    "description": "Z podpartym tułowiem opuszczaj obie nogi w małym zakresie. Wróć, zanim utracisz kontrolę miednicy.",
+    "steps": [
+      "Sprawdź blokady urządzenia, długość pasków i dobierz opór sprężyn do osoby oraz modelu reformera.",
+      "Z podpartym tułowiem opuszczaj obie nogi w małym zakresie. Wróć, zanim utracisz kontrolę miednicy.",
+      "Wykonaj kilka spokojnych powtórzeń z płynnym oddechem; zakończ z kontrolą wózka."
+    ],
+    "cues": "Dobierz zakres do kontroli ruchu. Nie uderzaj wózkiem w ograniczniki. Film pokazuje wariant autora; opór dobierz indywidualnie.",
+    "caution": "Przerwij ruch wywołujący ból. Skoki wymagają jumpboardu i wcześniejszego przygotowania. Skrzynia musi być stabilnie ustawiona; zmiany pasków wykonuj pod kontrolą instruktorki.",
+    "easier": "Zmniejsz zakres i tempo, zwiększ podparcie. W skokach zacznij od wyprostów nóg bez fazy lotu.",
+    "harder": "Wydłuż kontrolowany powrót lub dodaj krótką pauzę, zanim zwiększysz zakres czy opór.",
+    "preparesFor": [],
+    "image": "",
+    "custom": false,
+    "video": {
+      "id": "S8N9p-GH1Wg",
+      "start": 409,
+      "title": "Pilates Reformer Cardio Workout",
+      "channel": "Official Align-Pilates HQ"
+    }
+  },
+  {
+    "id": "reformer-video-07",
+    "name": "Unoszenie klatki piersiowej",
+    "englishName": "Curl ups",
+    "apparatus": "reformer",
+    "focus": ["Centrum"],
+    "props": ["Bez przyborów"],
+    "phase": "main",
+    "level": "Średni",
+    "minutes": 3,
+    "description": "Z leżenia unieś głowę i górną część tułowia z wydechem. Opuść bez szarpania paskami i bez ciągnięcia za szyję.",
+    "steps": [
+      "Sprawdź blokady urządzenia, długość pasków i dobierz opór sprężyn do osoby oraz modelu reformera.",
+      "Z leżenia unieś głowę i górną część tułowia z wydechem. Opuść bez szarpania paskami i bez ciągnięcia za szyję.",
+      "Wykonaj kilka spokojnych powtórzeń z płynnym oddechem; zakończ z kontrolą wózka."
+    ],
+    "cues": "Dobierz zakres do kontroli ruchu. Nie uderzaj wózkiem w ograniczniki. Film pokazuje wariant autora; opór dobierz indywidualnie.",
+    "caution": "Przerwij ruch wywołujący ból. Skoki wymagają jumpboardu i wcześniejszego przygotowania. Skrzynia musi być stabilnie ustawiona; zmiany pasków wykonuj pod kontrolą instruktorki.",
+    "easier": "Zmniejsz zakres i tempo, zwiększ podparcie. W skokach zacznij od wyprostów nóg bez fazy lotu.",
+    "harder": "Wydłuż kontrolowany powrót lub dodaj krótką pauzę, zanim zwiększysz zakres czy opór.",
+    "preparesFor": [],
+    "image": "",
+    "custom": false,
+    "video": {
+      "id": "S8N9p-GH1Wg",
+      "start": 444,
+      "title": "Pilates Reformer Cardio Workout",
+      "channel": "Official Align-Pilates HQ"
+    }
+  },
+  {
+    "id": "reformer-video-08",
+    "name": "Koordynacja ramion i nóg",
+    "englishName": "Coordination",
+    "apparatus": "reformer",
+    "focus": ["Centrum", "Nogi"],
+    "props": ["Bez przyborów"],
+    "phase": "main",
+    "level": "Średni",
+    "minutes": 3,
+    "description": "Połącz wyprost ramion i nóg z krótkim otwarciem i zamknięciem nóg. Wróć w ustalonej kolejności, kontrolując wózek.",
+    "steps": [
+      "Sprawdź blokady urządzenia, długość pasków i dobierz opór sprężyn do osoby oraz modelu reformera.",
+      "Połącz wyprost ramion i nóg z krótkim otwarciem i zamknięciem nóg. Wróć w ustalonej kolejności, kontrolując wózek.",
+      "Wykonaj kilka spokojnych powtórzeń z płynnym oddechem; zakończ z kontrolą wózka."
+    ],
+    "cues": "Dobierz zakres do kontroli ruchu. Nie uderzaj wózkiem w ograniczniki. Film pokazuje wariant autora; opór dobierz indywidualnie.",
+    "caution": "Przerwij ruch wywołujący ból. Skoki wymagają jumpboardu i wcześniejszego przygotowania. Skrzynia musi być stabilnie ustawiona; zmiany pasków wykonuj pod kontrolą instruktorki.",
+    "easier": "Zmniejsz zakres i tempo, zwiększ podparcie. W skokach zacznij od wyprostów nóg bez fazy lotu.",
+    "harder": "Wydłuż kontrolowany powrót lub dodaj krótką pauzę, zanim zwiększysz zakres czy opór.",
+    "preparesFor": [],
+    "image": "",
+    "custom": false,
+    "video": {
+      "id": "S8N9p-GH1Wg",
+      "start": 483,
+      "title": "Pilates Reformer Cardio Workout",
+      "channel": "Official Align-Pilates HQ"
+    }
+  },
+  {
+    "id": "reformer-video-09",
+    "name": "Skoki — seria druga",
+    "englishName": "Jumpboard series 2",
+    "apparatus": "reformer",
+    "focus": ["Nogi", "Centrum"],
+    "props": ["Jumpboard"],
+    "phase": "main",
+    "level": "Zaawansowany",
+    "minutes": 3,
+    "description": "Utrzymaj równe podparcie na jumpboardzie. Powtarzaj odbicie i miękkie lądowanie w zakresie odpowiednim dla grupy.",
+    "steps": [
+      "Sprawdź blokady urządzenia, długość pasków i dobierz opór sprężyn do osoby oraz modelu reformera.",
+      "Utrzymaj równe podparcie na jumpboardzie. Powtarzaj odbicie i miękkie lądowanie w zakresie odpowiednim dla grupy.",
+      "Wykonaj kilka spokojnych powtórzeń z płynnym oddechem; zakończ z kontrolą wózka."
+    ],
+    "cues": "Dobierz zakres do kontroli ruchu. Nie uderzaj wózkiem w ograniczniki. Film pokazuje wariant autora; opór dobierz indywidualnie.",
+    "caution": "Przerwij ruch wywołujący ból. Skoki wymagają jumpboardu i wcześniejszego przygotowania. Skrzynia musi być stabilnie ustawiona; zmiany pasków wykonuj pod kontrolą instruktorki.",
+    "easier": "Zmniejsz zakres i tempo, zwiększ podparcie. W skokach zacznij od wyprostów nóg bez fazy lotu.",
+    "harder": "Wydłuż kontrolowany powrót lub dodaj krótką pauzę, zanim zwiększysz zakres czy opór.",
+    "preparesFor": [],
+    "image": "",
+    "custom": false,
+    "video": {
+      "id": "S8N9p-GH1Wg",
+      "start": 550,
+      "title": "Pilates Reformer Cardio Workout",
+      "channel": "Official Align-Pilates HQ"
+    }
+  },
+  {
+    "id": "reformer-video-10",
+    "name": "Skoki slalomowe",
+    "englishName": "Slalom jumps",
+    "apparatus": "reformer",
+    "focus": ["Nogi", "Centrum"],
+    "props": ["Jumpboard"],
+    "phase": "main",
+    "level": "Zaawansowany",
+    "minutes": 3,
+    "description": "Przenoś ustawienie stóp delikatnie na boki podczas kolejnych lądowań. Zachowaj kontrolę osi nóg i miednicy.",
+    "steps": [
+      "Sprawdź blokady urządzenia, długość pasków i dobierz opór sprężyn do osoby oraz modelu reformera.",
+      "Przenoś ustawienie stóp delikatnie na boki podczas kolejnych lądowań. Zachowaj kontrolę osi nóg i miednicy.",
+      "Wykonaj kilka spokojnych powtórzeń z płynnym oddechem; zakończ z kontrolą wózka."
+    ],
+    "cues": "Dobierz zakres do kontroli ruchu. Nie uderzaj wózkiem w ograniczniki. Film pokazuje wariant autora; opór dobierz indywidualnie.",
+    "caution": "Przerwij ruch wywołujący ból. Skoki wymagają jumpboardu i wcześniejszego przygotowania. Skrzynia musi być stabilnie ustawiona; zmiany pasków wykonuj pod kontrolą instruktorki.",
+    "easier": "Zmniejsz zakres i tempo, zwiększ podparcie. W skokach zacznij od wyprostów nóg bez fazy lotu.",
+    "harder": "Wydłuż kontrolowany powrót lub dodaj krótką pauzę, zanim zwiększysz zakres czy opór.",
+    "preparesFor": [],
+    "image": "",
+    "custom": false,
+    "video": {
+      "id": "S8N9p-GH1Wg",
+      "start": 605,
+      "title": "Pilates Reformer Cardio Workout",
+      "channel": "Official Align-Pilates HQ"
+    }
+  },
+  {
+    "id": "reformer-video-11",
+    "name": "Skoki z drobną zmianą nóg",
+    "englishName": "Ballet flutter",
+    "apparatus": "reformer",
+    "focus": ["Nogi", "Równowaga"],
+    "props": ["Jumpboard"],
+    "phase": "main",
+    "level": "Zaawansowany",
+    "minutes": 3,
+    "description": "Wprowadź niewielką naprzemienną pracę nóg w fazie lotu. Wróć do miękkiego podparcia bez blokowania kolan.",
+    "steps": [
+      "Sprawdź blokady urządzenia, długość pasków i dobierz opór sprężyn do osoby oraz modelu reformera.",
+      "Wprowadź niewielką naprzemienną pracę nóg w fazie lotu. Wróć do miękkiego podparcia bez blokowania kolan.",
+      "Wykonaj kilka spokojnych powtórzeń z płynnym oddechem; zakończ z kontrolą wózka."
+    ],
+    "cues": "Dobierz zakres do kontroli ruchu. Nie uderzaj wózkiem w ograniczniki. Film pokazuje wariant autora; opór dobierz indywidualnie.",
+    "caution": "Przerwij ruch wywołujący ból. Skoki wymagają jumpboardu i wcześniejszego przygotowania. Skrzynia musi być stabilnie ustawiona; zmiany pasków wykonuj pod kontrolą instruktorki.",
+    "easier": "Zmniejsz zakres i tempo, zwiększ podparcie. W skokach zacznij od wyprostów nóg bez fazy lotu.",
+    "harder": "Wydłuż kontrolowany powrót lub dodaj krótką pauzę, zanim zwiększysz zakres czy opór.",
+    "preparesFor": [],
+    "image": "",
+    "custom": false,
+    "video": {
+      "id": "S8N9p-GH1Wg",
+      "start": 651,
+      "title": "Pilates Reformer Cardio Workout",
+      "channel": "Official Align-Pilates HQ"
+    }
+  },
+  {
+    "id": "reformer-video-12",
+    "name": "Skoki — łączenie wzorców",
+    "englishName": "Jumpboard mixed pattern",
+    "apparatus": "reformer",
+    "focus": ["Nogi", "Centrum"],
+    "props": ["Jumpboard"],
+    "phase": "main",
+    "level": "Zaawansowany",
+    "minutes": 3,
+    "description": "Połącz opanowane warianty skoków w spokojnym rytmie. Najpierw przećwicz każdy wariant osobno.",
+    "steps": [
+      "Sprawdź blokady urządzenia, długość pasków i dobierz opór sprężyn do osoby oraz modelu reformera.",
+      "Połącz opanowane warianty skoków w spokojnym rytmie. Najpierw przećwicz każdy wariant osobno.",
+      "Wykonaj kilka spokojnych powtórzeń z płynnym oddechem; zakończ z kontrolą wózka."
+    ],
+    "cues": "Dobierz zakres do kontroli ruchu. Nie uderzaj wózkiem w ograniczniki. Film pokazuje wariant autora; opór dobierz indywidualnie.",
+    "caution": "Przerwij ruch wywołujący ból. Skoki wymagają jumpboardu i wcześniejszego przygotowania. Skrzynia musi być stabilnie ustawiona; zmiany pasków wykonuj pod kontrolą instruktorki.",
+    "easier": "Zmniejsz zakres i tempo, zwiększ podparcie. W skokach zacznij od wyprostów nóg bez fazy lotu.",
+    "harder": "Wydłuż kontrolowany powrót lub dodaj krótką pauzę, zanim zwiększysz zakres czy opór.",
+    "preparesFor": [],
+    "image": "",
+    "custom": false,
+    "video": {
+      "id": "S8N9p-GH1Wg",
+      "start": 691,
+      "title": "Pilates Reformer Cardio Workout",
+      "channel": "Official Align-Pilates HQ"
+    }
+  },
+  {
+    "id": "reformer-video-13",
+    "name": "Krążenia w biodrach",
+    "englishName": "Circles in straps",
+    "apparatus": "reformer",
+    "focus": ["Biodra", "Centrum"],
+    "props": ["Bez przyborów"],
+    "phase": "main",
+    "level": "Średni",
+    "minutes": 3,
+    "description": "Załóż paski z pomocą instruktorki. Rysuj nogami niewielkie koła, utrzymując równe napięcie pasków.",
+    "steps": [
+      "Sprawdź blokady urządzenia, długość pasków i dobierz opór sprężyn do osoby oraz modelu reformera.",
+      "Załóż paski z pomocą instruktorki. Rysuj nogami niewielkie koła, utrzymując równe napięcie pasków.",
+      "Wykonaj kilka spokojnych powtórzeń z płynnym oddechem; zakończ z kontrolą wózka."
+    ],
+    "cues": "Dobierz zakres do kontroli ruchu. Nie uderzaj wózkiem w ograniczniki. Film pokazuje wariant autora; opór dobierz indywidualnie.",
+    "caution": "Przerwij ruch wywołujący ból. Skoki wymagają jumpboardu i wcześniejszego przygotowania. Skrzynia musi być stabilnie ustawiona; zmiany pasków wykonuj pod kontrolą instruktorki.",
+    "easier": "Zmniejsz zakres i tempo, zwiększ podparcie. W skokach zacznij od wyprostów nóg bez fazy lotu.",
+    "harder": "Wydłuż kontrolowany powrót lub dodaj krótką pauzę, zanim zwiększysz zakres czy opór.",
+    "preparesFor": [],
+    "image": "",
+    "custom": false,
+    "video": {
+      "id": "S8N9p-GH1Wg",
+      "start": 846,
+      "title": "Pilates Reformer Cardio Workout",
+      "channel": "Official Align-Pilates HQ"
+    }
+  },
+  {
+    "id": "reformer-video-14",
+    "name": "Żabka — kontrolowany powrót",
+    "englishName": "Frog variation",
+    "apparatus": "reformer",
+    "focus": ["Biodra", "Nogi"],
+    "props": ["Bez przyborów"],
+    "phase": "main",
+    "level": "Średni",
+    "minutes": 3,
+    "description": "Z ugięcia kolan wyprostuj nogi w wygodnym kierunku. Powoli wróć, nie pozwalając sprężynom przejąć ruchu.",
+    "steps": [
+      "Sprawdź blokady urządzenia, długość pasków i dobierz opór sprężyn do osoby oraz modelu reformera.",
+      "Z ugięcia kolan wyprostuj nogi w wygodnym kierunku. Powoli wróć, nie pozwalając sprężynom przejąć ruchu.",
+      "Wykonaj kilka spokojnych powtórzeń z płynnym oddechem; zakończ z kontrolą wózka."
+    ],
+    "cues": "Dobierz zakres do kontroli ruchu. Nie uderzaj wózkiem w ograniczniki. Film pokazuje wariant autora; opór dobierz indywidualnie.",
+    "caution": "Przerwij ruch wywołujący ból. Skoki wymagają jumpboardu i wcześniejszego przygotowania. Skrzynia musi być stabilnie ustawiona; zmiany pasków wykonuj pod kontrolą instruktorki.",
+    "easier": "Zmniejsz zakres i tempo, zwiększ podparcie. W skokach zacznij od wyprostów nóg bez fazy lotu.",
+    "harder": "Wydłuż kontrolowany powrót lub dodaj krótką pauzę, zanim zwiększysz zakres czy opór.",
+    "preparesFor": [],
+    "image": "",
+    "custom": false,
+    "video": {
+      "id": "S8N9p-GH1Wg",
+      "start": 919,
+      "title": "Pilates Reformer Cardio Workout",
+      "channel": "Official Align-Pilates HQ"
+    }
+  },
+  {
+    "id": "reformer-video-15",
+    "name": "Running man ze zgięciem tułowia",
+    "englishName": "Running man curl up",
+    "apparatus": "reformer",
+    "focus": ["Centrum", "Biodra"],
+    "props": ["Bez przyborów"],
+    "phase": "main",
+    "level": "Średni",
+    "minutes": 3,
+    "description": "Z niewielkiego uniesienia tułowia naprzemiennie zbliżaj i oddalaj nogi. Oprzyj głowę, jeśli szyja się męczy.",
+    "steps": [
+      "Sprawdź blokady urządzenia, długość pasków i dobierz opór sprężyn do osoby oraz modelu reformera.",
+      "Z niewielkiego uniesienia tułowia naprzemiennie zbliżaj i oddalaj nogi. Oprzyj głowę, jeśli szyja się męczy.",
+      "Wykonaj kilka spokojnych powtórzeń z płynnym oddechem; zakończ z kontrolą wózka."
+    ],
+    "cues": "Dobierz zakres do kontroli ruchu. Nie uderzaj wózkiem w ograniczniki. Film pokazuje wariant autora; opór dobierz indywidualnie.",
+    "caution": "Przerwij ruch wywołujący ból. Skoki wymagają jumpboardu i wcześniejszego przygotowania. Skrzynia musi być stabilnie ustawiona; zmiany pasków wykonuj pod kontrolą instruktorki.",
+    "easier": "Zmniejsz zakres i tempo, zwiększ podparcie. W skokach zacznij od wyprostów nóg bez fazy lotu.",
+    "harder": "Wydłuż kontrolowany powrót lub dodaj krótką pauzę, zanim zwiększysz zakres czy opór.",
+    "preparesFor": [],
+    "image": "",
+    "custom": false,
+    "video": {
+      "id": "S8N9p-GH1Wg",
+      "start": 999,
+      "title": "Pilates Reformer Cardio Workout",
+      "channel": "Official Align-Pilates HQ"
+    }
+  },
+  {
+    "id": "reformer-video-16",
+    "name": "Nożyce z kontrolą miednicy",
+    "englishName": "Scissors",
+    "apparatus": "reformer",
+    "focus": ["Centrum", "Nogi"],
+    "props": ["Bez przyborów"],
+    "phase": "main",
+    "level": "Średni",
+    "minutes": 3,
+    "description": "Rozdziel nogi w niewielkim zakresie i zamień ich położenie. Miednica pozostaje spokojna, oddech płynny.",
+    "steps": [
+      "Sprawdź blokady urządzenia, długość pasków i dobierz opór sprężyn do osoby oraz modelu reformera.",
+      "Rozdziel nogi w niewielkim zakresie i zamień ich położenie. Miednica pozostaje spokojna, oddech płynny.",
+      "Wykonaj kilka spokojnych powtórzeń z płynnym oddechem; zakończ z kontrolą wózka."
+    ],
+    "cues": "Dobierz zakres do kontroli ruchu. Nie uderzaj wózkiem w ograniczniki. Film pokazuje wariant autora; opór dobierz indywidualnie.",
+    "caution": "Przerwij ruch wywołujący ból. Skoki wymagają jumpboardu i wcześniejszego przygotowania. Skrzynia musi być stabilnie ustawiona; zmiany pasków wykonuj pod kontrolą instruktorki.",
+    "easier": "Zmniejsz zakres i tempo, zwiększ podparcie. W skokach zacznij od wyprostów nóg bez fazy lotu.",
+    "harder": "Wydłuż kontrolowany powrót lub dodaj krótką pauzę, zanim zwiększysz zakres czy opór.",
+    "preparesFor": [],
+    "image": "",
+    "custom": false,
+    "video": {
+      "id": "S8N9p-GH1Wg",
+      "start": 1039,
+      "title": "Pilates Reformer Cardio Workout",
+      "channel": "Official Align-Pilates HQ"
+    }
+  },
+  {
+    "id": "reformer-video-17",
+    "name": "Praca nogi bokiem — równolegle",
+    "englishName": "Side lying parallel leg",
+    "apparatus": "reformer",
+    "focus": ["Pośladki", "Biodra"],
+    "props": ["Bez przyborów"],
+    "phase": "main",
+    "level": "Średni",
+    "minutes": 3,
+    "description": "Ułóż się stabilnie na boku z podpartą głową. Prowadź górną nogę w kontrolowanym torze bez obracania tułowia.",
+    "steps": [
+      "Sprawdź blokady urządzenia, długość pasków i dobierz opór sprężyn do osoby oraz modelu reformera.",
+      "Ułóż się stabilnie na boku z podpartą głową. Prowadź górną nogę w kontrolowanym torze bez obracania tułowia.",
+      "Wykonaj kilka spokojnych powtórzeń z płynnym oddechem; zakończ z kontrolą wózka."
+    ],
+    "cues": "Dobierz zakres do kontroli ruchu. Nie uderzaj wózkiem w ograniczniki. Film pokazuje wariant autora; opór dobierz indywidualnie.",
+    "caution": "Przerwij ruch wywołujący ból. Skoki wymagają jumpboardu i wcześniejszego przygotowania. Skrzynia musi być stabilnie ustawiona; zmiany pasków wykonuj pod kontrolą instruktorki.",
+    "easier": "Zmniejsz zakres i tempo, zwiększ podparcie. W skokach zacznij od wyprostów nóg bez fazy lotu.",
+    "harder": "Wydłuż kontrolowany powrót lub dodaj krótką pauzę, zanim zwiększysz zakres czy opór.",
+    "preparesFor": [],
+    "image": "",
+    "custom": false,
+    "video": {
+      "id": "S8N9p-GH1Wg",
+      "start": 1179,
+      "title": "Pilates Reformer Cardio Workout",
+      "channel": "Official Align-Pilates HQ"
+    }
+  },
+  {
+    "id": "reformer-video-18",
+    "name": "Praca nogi bokiem — rotacja",
+    "englishName": "Side lying heel turned out",
+    "apparatus": "reformer",
+    "focus": ["Biodra", "Pośladki"],
+    "props": ["Bez przyborów"],
+    "phase": "main",
+    "level": "Średni",
+    "minutes": 3,
+    "description": "Ustaw niewielką rotację nogi wynikającą z biodra. Wykonaj ruch przeciw oporowi, nie skręcając kolana.",
+    "steps": [
+      "Sprawdź blokady urządzenia, długość pasków i dobierz opór sprężyn do osoby oraz modelu reformera.",
+      "Ustaw niewielką rotację nogi wynikającą z biodra. Wykonaj ruch przeciw oporowi, nie skręcając kolana.",
+      "Wykonaj kilka spokojnych powtórzeń z płynnym oddechem; zakończ z kontrolą wózka."
+    ],
+    "cues": "Dobierz zakres do kontroli ruchu. Nie uderzaj wózkiem w ograniczniki. Film pokazuje wariant autora; opór dobierz indywidualnie.",
+    "caution": "Przerwij ruch wywołujący ból. Skoki wymagają jumpboardu i wcześniejszego przygotowania. Skrzynia musi być stabilnie ustawiona; zmiany pasków wykonuj pod kontrolą instruktorki.",
+    "easier": "Zmniejsz zakres i tempo, zwiększ podparcie. W skokach zacznij od wyprostów nóg bez fazy lotu.",
+    "harder": "Wydłuż kontrolowany powrót lub dodaj krótką pauzę, zanim zwiększysz zakres czy opór.",
+    "preparesFor": [],
+    "image": "",
+    "custom": false,
+    "video": {
+      "id": "S8N9p-GH1Wg",
+      "start": 1386,
+      "title": "Pilates Reformer Cardio Workout",
+      "channel": "Official Align-Pilates HQ"
+    }
+  },
+  {
+    "id": "reformer-video-19",
+    "name": "Zbliżanie nóg w leżeniu bokiem",
+    "englishName": "Seal claps",
+    "apparatus": "reformer",
+    "focus": ["Nogi", "Centrum"],
+    "props": ["Bez przyborów"],
+    "phase": "main",
+    "level": "Średni",
+    "minutes": 3,
+    "description": "W leżeniu bokiem łagodnie rozdziel i zbliż nogi. Utrzymuj podparcie tułowia oraz kontrolę pasków.",
+    "steps": [
+      "Sprawdź blokady urządzenia, długość pasków i dobierz opór sprężyn do osoby oraz modelu reformera.",
+      "W leżeniu bokiem łagodnie rozdziel i zbliż nogi. Utrzymuj podparcie tułowia oraz kontrolę pasków.",
+      "Wykonaj kilka spokojnych powtórzeń z płynnym oddechem; zakończ z kontrolą wózka."
+    ],
+    "cues": "Dobierz zakres do kontroli ruchu. Nie uderzaj wózkiem w ograniczniki. Film pokazuje wariant autora; opór dobierz indywidualnie.",
+    "caution": "Przerwij ruch wywołujący ból. Skoki wymagają jumpboardu i wcześniejszego przygotowania. Skrzynia musi być stabilnie ustawiona; zmiany pasków wykonuj pod kontrolą instruktorki.",
+    "easier": "Zmniejsz zakres i tempo, zwiększ podparcie. W skokach zacznij od wyprostów nóg bez fazy lotu.",
+    "harder": "Wydłuż kontrolowany powrót lub dodaj krótką pauzę, zanim zwiększysz zakres czy opór.",
+    "preparesFor": [],
+    "image": "",
+    "custom": false,
+    "video": {
+      "id": "S8N9p-GH1Wg",
+      "start": 1452,
+      "title": "Pilates Reformer Cardio Workout",
+      "channel": "Official Align-Pilates HQ"
+    }
+  },
+  {
+    "id": "reformer-video-20",
+    "name": "Rotacja piersiowa w podparciu",
+    "englishName": "Thread the needle",
+    "apparatus": "reformer",
+    "focus": ["Plecy", "Mobilność"],
+    "props": ["Bez przyborów"],
+    "phase": "cooldown",
+    "level": "Średni",
+    "minutes": 3,
+    "description": "Z klęku podpartego przeprowadź ramię pod tułowiem. Wróć i delikatnie otwórz klatkę w tolerowanym zakresie.",
+    "steps": [
+      "Sprawdź blokady urządzenia, długość pasków i dobierz opór sprężyn do osoby oraz modelu reformera.",
+      "Z klęku podpartego przeprowadź ramię pod tułowiem. Wróć i delikatnie otwórz klatkę w tolerowanym zakresie.",
+      "Wykonaj kilka spokojnych powtórzeń z płynnym oddechem; zakończ z kontrolą wózka."
+    ],
+    "cues": "Dobierz zakres do kontroli ruchu. Nie uderzaj wózkiem w ograniczniki. Film pokazuje wariant autora; opór dobierz indywidualnie.",
+    "caution": "Przerwij ruch wywołujący ból. Skoki wymagają jumpboardu i wcześniejszego przygotowania. Skrzynia musi być stabilnie ustawiona; zmiany pasków wykonuj pod kontrolą instruktorki.",
+    "easier": "Zmniejsz zakres i tempo, zwiększ podparcie. W skokach zacznij od wyprostów nóg bez fazy lotu.",
+    "harder": "Wydłuż kontrolowany powrót lub dodaj krótką pauzę, zanim zwiększysz zakres czy opór.",
+    "preparesFor": [],
+    "image": "",
+    "custom": false,
+    "video": {
+      "id": "S8N9p-GH1Wg",
+      "start": 1571,
+      "title": "Pilates Reformer Cardio Workout",
+      "channel": "Official Align-Pilates HQ"
+    }
+  },
+  {
+    "id": "reformer-video-21",
+    "name": "Wyprost jednej nogi w podparciu",
+    "englishName": "Single leg push out",
+    "apparatus": "reformer",
+    "focus": ["Pośladki", "Centrum"],
+    "props": ["Bez przyborów"],
+    "phase": "main",
+    "level": "Średni",
+    "minutes": 3,
+    "description": "Ustaw stabilny klęk podparty. Oddal jedną nogę przeciw oporowi, zachowując spokojny tułów i bezpieczne podparcie.",
+    "steps": [
+      "Sprawdź blokady urządzenia, długość pasków i dobierz opór sprężyn do osoby oraz modelu reformera.",
+      "Ustaw stabilny klęk podparty. Oddal jedną nogę przeciw oporowi, zachowując spokojny tułów i bezpieczne podparcie.",
+      "Wykonaj kilka spokojnych powtórzeń z płynnym oddechem; zakończ z kontrolą wózka."
+    ],
+    "cues": "Dobierz zakres do kontroli ruchu. Nie uderzaj wózkiem w ograniczniki. Film pokazuje wariant autora; opór dobierz indywidualnie.",
+    "caution": "Przerwij ruch wywołujący ból. Skoki wymagają jumpboardu i wcześniejszego przygotowania. Skrzynia musi być stabilnie ustawiona; zmiany pasków wykonuj pod kontrolą instruktorki.",
+    "easier": "Zmniejsz zakres i tempo, zwiększ podparcie. W skokach zacznij od wyprostów nóg bez fazy lotu.",
+    "harder": "Wydłuż kontrolowany powrót lub dodaj krótką pauzę, zanim zwiększysz zakres czy opór.",
+    "preparesFor": [],
+    "image": "",
+    "custom": false,
+    "video": {
+      "id": "S8N9p-GH1Wg",
+      "start": 1627,
+      "title": "Pilates Reformer Cardio Workout",
+      "channel": "Official Align-Pilates HQ"
+    }
+  },
+  {
+    "id": "reformer-video-22",
+    "name": "Noga w pasku na long boxie",
+    "englishName": "Long box leg pulling straps",
+    "apparatus": "reformer",
+    "focus": ["Pośladki", "Centrum"],
+    "props": ["Skrzynia"],
+    "phase": "main",
+    "level": "Średni",
+    "minutes": 3,
+    "description": "W klęku na skrzyni wydłuż nogę z paskiem w kontrolowanym zakresie. Utrzymaj biodra i barki na jednym poziomie.",
+    "steps": [
+      "Sprawdź blokady urządzenia, długość pasków i dobierz opór sprężyn do osoby oraz modelu reformera.",
+      "W klęku na skrzyni wydłuż nogę z paskiem w kontrolowanym zakresie. Utrzymaj biodra i barki na jednym poziomie.",
+      "Wykonaj kilka spokojnych powtórzeń z płynnym oddechem; zakończ z kontrolą wózka."
+    ],
+    "cues": "Dobierz zakres do kontroli ruchu. Nie uderzaj wózkiem w ograniczniki. Film pokazuje wariant autora; opór dobierz indywidualnie.",
+    "caution": "Przerwij ruch wywołujący ból. Skoki wymagają jumpboardu i wcześniejszego przygotowania. Skrzynia musi być stabilnie ustawiona; zmiany pasków wykonuj pod kontrolą instruktorki.",
+    "easier": "Zmniejsz zakres i tempo, zwiększ podparcie. W skokach zacznij od wyprostów nóg bez fazy lotu.",
+    "harder": "Wydłuż kontrolowany powrót lub dodaj krótką pauzę, zanim zwiększysz zakres czy opór.",
+    "preparesFor": [],
+    "image": "",
+    "custom": false,
+    "video": {
+      "id": "BiCLt-4TcUE",
+      "start": 0,
+      "title": "Long Box & Straps Exercises on the Pilates Reformer",
+      "channel": "Official Align-Pilates HQ"
+    }
+  },
+  {
+    "id": "reformer-video-23",
+    "name": "Przyciąganie kolana na long boxie",
+    "englishName": "Long box single leg crunch",
+    "apparatus": "reformer",
+    "focus": ["Centrum", "Biodra"],
+    "props": ["Skrzynia"],
+    "phase": "main",
+    "level": "Średni",
+    "minutes": 3,
+    "description": "Na stabilnie ustawionej skrzyni przyciągnij kolano pod tułów. Kontroluj ruch sprężyny i wróć do wydłużenia.",
+    "steps": [
+      "Sprawdź blokady urządzenia, długość pasków i dobierz opór sprężyn do osoby oraz modelu reformera.",
+      "Na stabilnie ustawionej skrzyni przyciągnij kolano pod tułów. Kontroluj ruch sprężyny i wróć do wydłużenia.",
+      "Wykonaj kilka spokojnych powtórzeń z płynnym oddechem; zakończ z kontrolą wózka."
+    ],
+    "cues": "Dobierz zakres do kontroli ruchu. Nie uderzaj wózkiem w ograniczniki. Film pokazuje wariant autora; opór dobierz indywidualnie.",
+    "caution": "Przerwij ruch wywołujący ból. Skoki wymagają jumpboardu i wcześniejszego przygotowania. Skrzynia musi być stabilnie ustawiona; zmiany pasków wykonuj pod kontrolą instruktorki.",
+    "easier": "Zmniejsz zakres i tempo, zwiększ podparcie. W skokach zacznij od wyprostów nóg bez fazy lotu.",
+    "harder": "Wydłuż kontrolowany powrót lub dodaj krótką pauzę, zanim zwiększysz zakres czy opór.",
+    "preparesFor": [],
+    "image": "",
+    "custom": false,
+    "video": {
+      "id": "BiCLt-4TcUE",
+      "start": 27,
+      "title": "Long Box & Straps Exercises on the Pilates Reformer",
+      "channel": "Official Align-Pilates HQ"
+    }
+  },
+  {
+    "id": "reformer-video-24",
+    "name": "Krążenie nogi bokiem na skrzyni",
+    "englishName": "Long box side leg circles",
+    "apparatus": "reformer",
+    "focus": ["Biodra", "Centrum"],
+    "props": ["Skrzynia"],
+    "phase": "main",
+    "level": "Średni",
+    "minutes": 3,
+    "description": "Podeprzyj bok tułowia na skrzyni. Wykonuj małe krążenia nogą, utrzymując stabilną miednicę.",
+    "steps": [
+      "Sprawdź blokady urządzenia, długość pasków i dobierz opór sprężyn do osoby oraz modelu reformera.",
+      "Podeprzyj bok tułowia na skrzyni. Wykonuj małe krążenia nogą, utrzymując stabilną miednicę.",
+      "Wykonaj kilka spokojnych powtórzeń z płynnym oddechem; zakończ z kontrolą wózka."
+    ],
+    "cues": "Dobierz zakres do kontroli ruchu. Nie uderzaj wózkiem w ograniczniki. Film pokazuje wariant autora; opór dobierz indywidualnie.",
+    "caution": "Przerwij ruch wywołujący ból. Skoki wymagają jumpboardu i wcześniejszego przygotowania. Skrzynia musi być stabilnie ustawiona; zmiany pasków wykonuj pod kontrolą instruktorki.",
+    "easier": "Zmniejsz zakres i tempo, zwiększ podparcie. W skokach zacznij od wyprostów nóg bez fazy lotu.",
+    "harder": "Wydłuż kontrolowany powrót lub dodaj krótką pauzę, zanim zwiększysz zakres czy opór.",
+    "preparesFor": [],
+    "image": "",
+    "custom": false,
+    "video": {
+      "id": "BiCLt-4TcUE",
+      "start": 64,
+      "title": "Long Box & Straps Exercises on the Pilates Reformer",
+      "channel": "Official Align-Pilates HQ"
+    }
+  },
+  {
+    "id": "reformer-video-25",
+    "name": "Praca ramion z tułowiem na skrzyni",
+    "englishName": "Mid back on long box",
+    "apparatus": "reformer",
+    "focus": ["Centrum", "Barki"],
+    "props": ["Skrzynia"],
+    "phase": "main",
+    "level": "Średni",
+    "minutes": 3,
+    "description": "Ustaw tułów z podparciem na skrzyni i uchwyty w dłoniach. Prowadź ramiona z kontrolą, dobierając pozycję nóg do możliwości.",
+    "steps": [
+      "Sprawdź blokady urządzenia, długość pasków i dobierz opór sprężyn do osoby oraz modelu reformera.",
+      "Ustaw tułów z podparciem na skrzyni i uchwyty w dłoniach. Prowadź ramiona z kontrolą, dobierając pozycję nóg do możliwości.",
+      "Wykonaj kilka spokojnych powtórzeń z płynnym oddechem; zakończ z kontrolą wózka."
+    ],
+    "cues": "Dobierz zakres do kontroli ruchu. Nie uderzaj wózkiem w ograniczniki. Film pokazuje wariant autora; opór dobierz indywidualnie.",
+    "caution": "Przerwij ruch wywołujący ból. Skoki wymagają jumpboardu i wcześniejszego przygotowania. Skrzynia musi być stabilnie ustawiona; zmiany pasków wykonuj pod kontrolą instruktorki.",
+    "easier": "Zmniejsz zakres i tempo, zwiększ podparcie. W skokach zacznij od wyprostów nóg bez fazy lotu.",
+    "harder": "Wydłuż kontrolowany powrót lub dodaj krótką pauzę, zanim zwiększysz zakres czy opór.",
+    "preparesFor": [],
+    "image": "",
+    "custom": false,
+    "video": {
+      "id": "BiCLt-4TcUE",
+      "start": 93,
+      "title": "Long Box & Straps Exercises on the Pilates Reformer",
+      "channel": "Official Align-Pilates HQ"
+    }
+  },
+  {
+    "id": "reformer-video-26",
+    "name": "Przyciąganie pasków na brzuchu",
+    "englishName": "Pulling straps",
+    "apparatus": "reformer",
+    "focus": ["Plecy", "Barki"],
+    "props": ["Skrzynia"],
+    "phase": "main",
+    "level": "Średni",
+    "minutes": 3,
+    "description": "Połóż się przodem na skrzyni. Poprowadź dłonie w stronę bioder, wydłużając klatkę bez zadzierania głowy.",
+    "steps": [
+      "Sprawdź blokady urządzenia, długość pasków i dobierz opór sprężyn do osoby oraz modelu reformera.",
+      "Połóż się przodem na skrzyni. Poprowadź dłonie w stronę bioder, wydłużając klatkę bez zadzierania głowy.",
+      "Wykonaj kilka spokojnych powtórzeń z płynnym oddechem; zakończ z kontrolą wózka."
+    ],
+    "cues": "Dobierz zakres do kontroli ruchu. Nie uderzaj wózkiem w ograniczniki. Film pokazuje wariant autora; opór dobierz indywidualnie.",
+    "caution": "Przerwij ruch wywołujący ból. Skoki wymagają jumpboardu i wcześniejszego przygotowania. Skrzynia musi być stabilnie ustawiona; zmiany pasków wykonuj pod kontrolą instruktorki.",
+    "easier": "Zmniejsz zakres i tempo, zwiększ podparcie. W skokach zacznij od wyprostów nóg bez fazy lotu.",
+    "harder": "Wydłuż kontrolowany powrót lub dodaj krótką pauzę, zanim zwiększysz zakres czy opór.",
+    "preparesFor": [],
+    "image": "",
+    "custom": false,
+    "video": {
+      "id": "xkX_CCj5Plc",
+      "start": 0,
+      "title": "Pilates Reformer Encyclopedia: Long Box: Pull Straps & T",
+      "channel": "Pilatesology"
+    }
+  },
+  {
+    "id": "reformer-video-27",
+    "name": "Odwodzenie ramion na skrzyni",
+    "englishName": "Pulling straps T",
+    "apparatus": "reformer",
+    "focus": ["Plecy", "Barki"],
+    "props": ["Skrzynia"],
+    "phase": "main",
+    "level": "Średni",
+    "minutes": 3,
+    "description": "W leżeniu przodem na skrzyni ustaw ramiona szerzej. Przyciągnij je w kierunku tułowia bez unoszenia barków do uszu.",
+    "steps": [
+      "Sprawdź blokady urządzenia, długość pasków i dobierz opór sprężyn do osoby oraz modelu reformera.",
+      "W leżeniu przodem na skrzyni ustaw ramiona szerzej. Przyciągnij je w kierunku tułowia bez unoszenia barków do uszu.",
+      "Wykonaj kilka spokojnych powtórzeń z płynnym oddechem; zakończ z kontrolą wózka."
+    ],
+    "cues": "Dobierz zakres do kontroli ruchu. Nie uderzaj wózkiem w ograniczniki. Film pokazuje wariant autora; opór dobierz indywidualnie.",
+    "caution": "Przerwij ruch wywołujący ból. Skoki wymagają jumpboardu i wcześniejszego przygotowania. Skrzynia musi być stabilnie ustawiona; zmiany pasków wykonuj pod kontrolą instruktorki.",
+    "easier": "Zmniejsz zakres i tempo, zwiększ podparcie. W skokach zacznij od wyprostów nóg bez fazy lotu.",
+    "harder": "Wydłuż kontrolowany powrót lub dodaj krótką pauzę, zanim zwiększysz zakres czy opór.",
+    "preparesFor": [],
+    "image": "",
+    "custom": false,
+    "video": {
+      "id": "xkX_CCj5Plc",
+      "start": 0,
+      "title": "Pilates Reformer Encyclopedia: Long Box: Pull Straps & T",
+      "channel": "Pilatesology"
+    }
+  },
+  {
+    "id": "reformer-video-28",
+    "name": "Most na reformerze — przygotowanie",
+    "englishName": "Pelvic curl preparation",
+    "apparatus": "reformer",
+    "focus": ["Pośladki", "Biodra"],
+    "props": ["Bez przyborów"],
+    "phase": "warmup",
+    "level": "Podstawowy",
+    "minutes": 3,
+    "description": "Z leżenia ze stopami na belce unieś miednicę w komfortowym zakresie. Opuść ją spokojnie, bez obciążania szyi.",
+    "steps": [
+      "Sprawdź blokady urządzenia, długość pasków i dobierz opór sprężyn do osoby oraz modelu reformera.",
+      "Z leżenia ze stopami na belce unieś miednicę w komfortowym zakresie. Opuść ją spokojnie, bez obciążania szyi.",
+      "Wykonaj kilka spokojnych powtórzeń z płynnym oddechem; zakończ z kontrolą wózka."
+    ],
+    "cues": "Dobierz zakres do kontroli ruchu. Nie uderzaj wózkiem w ograniczniki. Film pokazuje wariant autora; opór dobierz indywidualnie.",
+    "caution": "Przerwij ruch wywołujący ból. Skoki wymagają jumpboardu i wcześniejszego przygotowania. Skrzynia musi być stabilnie ustawiona; zmiany pasków wykonuj pod kontrolą instruktorki.",
+    "easier": "Zmniejsz zakres i tempo, zwiększ podparcie. W skokach zacznij od wyprostów nóg bez fazy lotu.",
+    "harder": "Wydłuż kontrolowany powrót lub dodaj krótką pauzę, zanim zwiększysz zakres czy opór.",
+    "preparesFor": [],
+    "image": "",
+    "custom": false,
+    "video": {
+      "id": "ekW4bSnDMVw",
+      "start": 0,
+      "title": "Pelvic curl / Bridges — Full Breakdown + Modifications",
+      "channel": "Autor filmu YouTube"
+    }
+  },
+  {
+    "id": "reformer-video-29",
+    "name": "Elephant — kontrola wózka",
+    "englishName": "Elephant",
+    "apparatus": "reformer",
+    "focus": ["Centrum", "Plecy"],
+    "props": ["Bez przyborów"],
+    "phase": "main",
+    "level": "Średni",
+    "minutes": 3,
+    "description": "Stań na wózku z dłońmi na zablokowanej belce. Przesuń wózek niewiele od siebie i przyciągnij go z kontrolą.",
+    "steps": [
+      "Sprawdź blokady urządzenia, długość pasków i dobierz opór sprężyn do osoby oraz modelu reformera.",
+      "Stań na wózku z dłońmi na zablokowanej belce. Przesuń wózek niewiele od siebie i przyciągnij go z kontrolą.",
+      "Wykonaj kilka spokojnych powtórzeń z płynnym oddechem; zakończ z kontrolą wózka."
+    ],
+    "cues": "Dobierz zakres do kontroli ruchu. Nie uderzaj wózkiem w ograniczniki. Film pokazuje wariant autora; opór dobierz indywidualnie.",
+    "caution": "Przerwij ruch wywołujący ból. Skoki wymagają jumpboardu i wcześniejszego przygotowania. Skrzynia musi być stabilnie ustawiona; zmiany pasków wykonuj pod kontrolą instruktorki.",
+    "easier": "Zmniejsz zakres i tempo, zwiększ podparcie. W skokach zacznij od wyprostów nóg bez fazy lotu.",
+    "harder": "Wydłuż kontrolowany powrót lub dodaj krótką pauzę, zanim zwiększysz zakres czy opór.",
+    "preparesFor": [],
+    "image": "",
+    "custom": false,
+    "video": {
+      "id": "6onkc1noAi8",
+      "start": 0,
+      "title": "Elephant on the Reformer",
+      "channel": "Online Pilates Classes / Lesley Logan"
+    }
+  },
+  {
+    "id": "reformer-video-30",
+    "name": "Rozgrzewka na reformerze z piłką",
+    "englishName": "Mini ball warm-up",
+    "apparatus": "reformer",
+    "focus": ["Centrum", "Oddech"],
+    "props": ["Mała piłka"],
+    "phase": "warmup",
+    "level": "Podstawowy",
+    "minutes": 3,
+    "description": "Przygotuj stabilne podparcie na wózku i małą piłkę według demonstracji. Zacznij od krótkiego zakresu oraz spokojnego oddechu.",
+    "steps": [
+      "Sprawdź blokady urządzenia, długość pasków i dobierz opór sprężyn do osoby oraz modelu reformera.",
+      "Przygotuj stabilne podparcie na wózku i małą piłkę według demonstracji. Zacznij od krótkiego zakresu oraz spokojnego oddechu.",
+      "Wykonaj kilka spokojnych powtórzeń z płynnym oddechem; zakończ z kontrolą wózka."
+    ],
+    "cues": "Dobierz zakres do kontroli ruchu. Nie uderzaj wózkiem w ograniczniki. Film pokazuje wariant autora; opór dobierz indywidualnie.",
+    "caution": "Przerwij ruch wywołujący ból. Skoki wymagają jumpboardu i wcześniejszego przygotowania. Skrzynia musi być stabilnie ustawiona; zmiany pasków wykonuj pod kontrolą instruktorki.",
+    "easier": "Zmniejsz zakres i tempo, zwiększ podparcie. W skokach zacznij od wyprostów nóg bez fazy lotu.",
+    "harder": "Wydłuż kontrolowany powrót lub dodaj krótką pauzę, zanim zwiększysz zakres czy opór.",
+    "preparesFor": [],
+    "image": "",
+    "custom": false,
+    "video": {
+      "id": "iX-gys2PMRQ",
+      "start": 0,
+      "title": "Reformer warm-up with mini-ball",
+      "channel": "april plank pilates"
+    }
+  }
+]

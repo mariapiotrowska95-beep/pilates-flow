@@ -59,3 +59,7 @@ pnpm preview
 Po zmianach w logice zapisu/serii/importu uruchomić odpowiednie testy. Po zmianach UI sprawdzić główną ścieżkę na szerokim ekranie oraz przy 390 px i 320 px, klawiaturę, puste stany, zapis po odświeżeniu. Tryb offline testować na buildzie produkcyjnym po aktywacji service workera. Nie usuwać prawdziwych danych podczas testów.
 
 Dokumentacja: `docs/ARCHITEKTURA.md`, `docs/PRODUKT.md`, `docs/INSTRUKCJA.md`, `docs/WDROZENIE.md`, `docs/WERYFIKACJA.md`.
+
+## Aktualizacja biblioteki YouTube
+
+Na prośbę właścicielki usunięto sylwetki SVG. Katalog zawiera 30 dodatkowych pozycji reformer, w tym 5 rozgrzewkowych. `video` jest opcjonalne dla zgodności kopii. Korzystamy z osadzeń youtube-nocookie i miniatur i.ytimg.com, z linkiem awaryjnym. Filmy i miniatury wymagają sieci; nie deklarować pełnego offline dla mediów zewnętrznych. Źródła i ograniczenia w docs/REFORMER-YOUTUBE.md.

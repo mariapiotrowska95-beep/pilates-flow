@@ -3282,9 +3282,118 @@ main {
 }
 
 @media (max-width: 760px) {
-  .sidebar { visibility: hidden; }
-  .sidebar.is-open { visibility: visible; }
-  .add-button { width: 40px; height: 40px; }
-  .move-buttons .icon-button { min-width: 40px; min-height: 40px; }
-  .favorite-button { width: 36px; height: 36px; }
+  .sidebar {
+    visibility: hidden;
+  }
+  .sidebar.is-open {
+    visibility: visible;
+  }
+  .add-button {
+    width: 40px;
+    height: 40px;
+  }
+  .move-buttons .icon-button {
+    min-width: 40px;
+    min-height: 40px;
+  }
+  .favorite-button {
+    width: 36px;
+    height: 36px;
+  }
+}
+
+.photo-placeholder {
+  height: 157px;
+  background: #e8e9df;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  letter-spacing: 3px;
+  color: #64765d;
+  font-size: 15px;
+}
+.photo-placeholder span {
+  font-size: 10px;
+  letter-spacing: 0;
+  margin-top: 12px;
+}
+.exercise-video {
+  margin: 20px 0;
+}
+.exercise-video h3 {
+  margin-bottom: 12px;
+}
+.exercise-video iframe {
+  width: 100%;
+  aspect-ratio: 16/9;
+  border: 0;
+  border-radius: 10px;
+}
+.exercise-video p,
+.exercise-video small {
+  display: block;
+  font-size: 11px;
+  color: #74816c;
+  line-height: 1.7;
+  margin: 10px 0;
+}
+.exercise-video a {
+  font-size: 12px;
+  text-decoration: underline;
+}
+.video-launch {
+  width: 100%;
+  border: 0;
+  padding: 0;
+  border-radius: 10px;
+  overflow: hidden;
+  background: #354e41;
+  color: white;
+  position: relative;
+}
+.video-launch img {
+  width: 100%;
+  height: auto;
+  max-height: 320px;
+  object-fit: cover;
+}
+.video-launch > span {
+  display: block;
+  padding: 15px;
+}
+.saved-exercise-link {
+  border: 0;
+  background: none;
+  padding: 0;
+  text-align: left;
+  cursor: pointer;
+}
+.saved-exercise-link span {
+  display: block;
+  color: #58764b;
+  font-size: 11px;
+  margin-bottom: 10px;
+}
+.hero-art {
+  min-height: 230px;
+}
+.hero-ring {
+  background: #dce3d0;
+}
+.hero-caption {
+  bottom: 30px;
+}
+.hero-sparkle {
+  font-size: 90px;
+  top: 70px;
+  right: 80px;
+}
+@media (max-width: 760px) {
+  .photo-placeholder {
+    height: 125px;
+  }
+  .hero-art {
+    min-height: 160px;
+  }
 }
